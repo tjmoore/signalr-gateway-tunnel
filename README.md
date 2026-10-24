@@ -1,6 +1,6 @@
-# SignalRGatewayTunnel
+# SignalR Gateway Tunnel
 
-[![Build](https://github.com/tjmoore/SignalRGatewayTunnel/actions/workflows/build.yml/badge.svg)](https://github.com/tjmoore/SignalRGatewayTunnel/actions/workflows/build.yml)
+[![Build](https://github.com/tjmoore/signalr-gateway-tunnel/actions/workflows/build.yml/badge.svg)](https://github.com/tjmoore/signalr-gateway-tunnel/actions/workflows/build.yml)
 
 Sample SignalR based Gateway tunnel
 
